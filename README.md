@@ -1,5 +1,5 @@
-## **MSI Gaming Edge Z490 + Sapphire RX5600 XT / Opencore 0.9.2 / Ventura-13.4**
-# **(with working Intel AX201 WIFI & BT)**
+### **MSI Gaming Edge Z490 + Sapphire RX5600 XT / Opencore 0.9.2 / macOS Ventura 13.4**
+**with working Intel AX201 WIFI & BT**
 
 **Setup**
 
