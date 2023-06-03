@@ -17,6 +17,8 @@ power : Be Quiet ! Straight Power 10 700W
 
 cool : CPU watercooler Cooler Master 240L RGB v2
 
+box : AZZA 804 Pyramid
+
 
 **Solved issues**
 
